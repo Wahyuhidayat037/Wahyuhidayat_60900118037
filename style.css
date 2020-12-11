@@ -20,8 +20,13 @@ body {
     text-align: center;
 }
 
+<<<<<<< HEAD
+#footer {
+    width: 90%;
+=======
 #header {
     width: 100%;
+>>>>>>> manager-1.0
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
